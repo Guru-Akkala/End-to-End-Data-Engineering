@@ -1,4 +1,4 @@
-# Realtime Data Streaming | End-to-End Data Engineering Project
+# Real-Time User Data Streaming Pipeline with Kafka, Spark, and Cassandra | End-to-End Data Engineering Project
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -60,6 +60,7 @@ The project is designed with the following components:
     ```bash
     docker-compose up
     ```
+
 
 
 
